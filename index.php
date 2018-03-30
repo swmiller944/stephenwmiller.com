@@ -1,1 +1,1 @@
-<?php include_once("app/index.php"); ?>
+<?php include_once("app/index.html"); ?>
